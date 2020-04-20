@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Git Issue Tracker</string>
+    <string name="tap_for_details">Tap for details</string>
+    <string name="issue_list">Issue List</string>
+    <string name="git_issue_tracker">Git Issue Tracker</string>
+    <string name="priyanka">© Priyanka</string>
+    <string name="comments_section">Comments Section</string>
+    <string name="comment_list">commentList</string>
+    <string name="remove_url">https://api.github.com/repos/firebase/firebase-ios-sdk/</string>
+    <string name="currently_no_comments_are_available_for_this_issue">Currently no comments are available for this issue!
+        \n Check again later.</string>
+    <string name="okay">Okay</string>
+    <string name="comments">Comments:</string>
+    <string name="posted_by">Posted by: </string>
+    <string name="reported_by">Reported by: </string>
+</resources>
